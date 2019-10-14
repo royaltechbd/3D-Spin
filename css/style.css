@@ -1,0 +1,29 @@
+.centerer {
+    text-align: center;
+    margin: 0 auto;
+	width:600px;
+}
+.spin-360-deg {
+    width: 100%;
+    position: relative;
+}
+.spin-360-deg:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.spin-360-deg .spin-360-arrows {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: url(../images/360-degree-spin-icon-480x100px.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    opacity: .1;
+    transition: .2s;
+}

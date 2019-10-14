@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 480 480" style="enable-background:new 0 0 480 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#231F20;}
+</style>
+<g id="icon" class="st0">
+	<ellipse class="st1" cx="172" cy="240" rx="20" ry="20"/>
+</g>
+<g id="border">
+</g>
+<g id="grid">
+</g>
+<g id="keylines">
+</g>
+<g id="Layer_5">
+	<circle class="st2" cx="209.9" cy="255.1" r="0.1"/>
+	<g>
+		<path d="M69.6,198.1c-93,23.2-92.8,60.7,0.7,83.9c3.8,0.9,7.8,1.8,11.8,2.6l1.2-8.3c-78.8-20.8-77.5-53.4,4-73.8l20.5,5.1
+			l14.1-17.5l-70.7,3.5L69.6,198.1z"/>
+		<path d="M409.7,197.9c-3.9-1-8-1.8-12.1-2.7l-1.2,8.3c79.1,20.8,78,53.5-3.7,73.9l-19.6-4.9L359,290l70.7-3.5l-19.3-4.8
+			C503.4,258.5,503.2,221,409.7,197.9z"/>
+	</g>
+</g>
+</svg>
